@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 
 // EXAMPLE NEA
-// WRITTEN BY JACK GREENACRE (@jaxk25 on GitHub)
+// WRITTEN BY JACK GREENACRE (@Xhelphin on GitHub)
 
 namespace neacs
 {
